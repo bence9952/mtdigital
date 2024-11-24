@@ -1,0 +1,3 @@
+git add version.txt
+git commit -m "Frissítve a verziószám: 4.0.0"
+git push origin main
